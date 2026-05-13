@@ -211,7 +211,8 @@ body.page-legal {
   color: var(--text-muted);
 }
 
-.legal-doc ul {
+.legal-doc ul,
+.legal-doc ol {
   margin: 0 0 0.85rem;
   padding-left: 1.25rem;
 }
